@@ -1,1 +1,2 @@
 # test5
+Nesta lição foi mostrada a importância do seletor de agrupamento. A partir dela, é possível agrupar regras que diferentes elementos podem compartilhar. Tal ferramenta é útil, tornando o código mais limpo e de fácil entendimento.
